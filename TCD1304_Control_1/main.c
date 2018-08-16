@@ -513,7 +513,7 @@ void printVal(uint32_t value){
     }
 
  //   ltoa(value, testC); //, 10);  // convert int back to string
-    USBBufferWrite((tUSBBuffer *)&g_sTxBuffer,(uint8_t *)&testE, 6);
+//    USBBufferWrite((tUSBBuffer *)&g_sTxBuffer,(uint8_t *)&testE, 6);
     USBBufferWrite((tUSBBuffer *)&g_sTxBuffer,(uint8_t *)&RT, 1);
 }
 
