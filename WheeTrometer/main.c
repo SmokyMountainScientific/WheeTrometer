@@ -2,7 +2,7 @@
  * WheeTrometer
  * microcontroller firmware for Wheetrometer spectrometer
  *
- *  last copied to GitHub 8/16/18
+ *  last copied to GitHub 01/06/20
  *  f clock 1 MHz
  *     'W' char from GUI followed by four chars sets serial number
  *     'A' char from GUI followed by eight chars sets amp, offset
