@@ -1,0 +1,14 @@
+  // R: refinement parameters:
+R,1.0,.0002,0.2
+  // S: spectrometer name and serial number
+S,001,WheeTrometer_1
+  // C: wavelength calibration parameters
+C,249.123,0.1495223,32.47777
+  // P: data collection parameters
+P,2.0,4,1,,,400,800
+  // W: source name and wavelengths
+W,comp. fluor.,404.6,435.8,546.1,611.6,631.1,
+W,Na Li K,589.0,671.0,766.0,0.0,0.0,
+  // X: source pixel numbers
+X,10,20,30,40,50,
+X,60,70,80,0,0,

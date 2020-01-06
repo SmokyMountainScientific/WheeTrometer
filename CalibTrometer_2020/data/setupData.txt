@@ -1,0 +1,6 @@
+Header file: C:\Users\summers\Documents\WheeTrometer\WheeTrometer_GUI\WheeTrometer\data\seupData
+242.59286,0.14694773,32.476738,wavelength calibration params
+1.0,.0002,0.2,wavelength refinement params
+2.0,4,1,190,125,200,800, integration_loops_dataAv_amp_offset_min_max
+1347,944,1689,2226,2829,, pixel positions for wavelength calibration
+404.6,435.8,546.1,611.6,631.1,, wavelengths for calibration

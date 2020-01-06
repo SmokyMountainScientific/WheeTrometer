@@ -1,0 +1,6 @@
+Header file: C:\Users\summers\Documents\WheeTrometer\WheeTrometer_GUI\WheeTrometer\data\setupData-uvVis
+-146.20303,0.35120693,64.18987,wavelength calibration params
+0.004115226,8.2304524E-7,8.230453E-4,wavelength refinement params
+2.0,4,1,190,125,200,1100, integration_loops_dataAv_amp_offset_min_max
+1399,1484,1781,1981,2829,, pixel positions for wavelength calibration
+404.6,435.8,546.1,611.6,631.1,, wavelengths for calibration

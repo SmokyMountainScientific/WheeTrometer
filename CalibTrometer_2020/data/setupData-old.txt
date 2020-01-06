@@ -1,0 +1,6 @@
+Header file saved,07-09-2019,JSS,name: setupData.txt
+298.8,0.1107,-30.3, wavelength calibration stuff
+1,0.0002,0.2,  wavelength refinement stuff
+2,4,4, integration_loops_dataAv
+783,1023,1962,2617,2829,  pixel positions for wavelength calibration  
+404.6,435.8,546.1,611.6,631.1, wavelengths for calibration

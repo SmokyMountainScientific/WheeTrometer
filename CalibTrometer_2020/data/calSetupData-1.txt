@@ -1,0 +1,20 @@
+R,1.0,.0002,0.2,wavelength refinement params
+S,001,WheeTrometer_1, Serial No and Spectrometer name 
+S,002,Flame Emission
+S,003,Whee-UV
+S,004,WheeTrometer_2
+C,001,242.59286,0.14694773,32.476738,wavelength calibration params
+C,002,242.59286,0.14694773,32.476738,
+C,003,242.59286,0.14694773,32.476738,
+C,004,242.59286,0.14694773,32.476738,
+P,001,2.0,4,1,190,125,400,800, integration_loops_dataAv_amp_offset_min_max
+P,002,12.0,3,1,190,125,600,900, integration_loops_dataAv_amp_offset_min_max
+P,003,2.0,2,2,190,125,400,800, integration_loops_dataAv_amp_offset_min_max
+P,004,2.0,1,1,190,125,400,800, integration_loops_dataAv_amp_offset_min_max
+wavelengths for calibration
+W,0,comp. fluor.,404.6,435.8,546.1,611.6,631.1
+W,1,Na Li K,589,671,766
+ pixel positions for wavelength calibration
+X,0,1347,944,1689,2226,2829 
+X,1,200,800,1300
+
