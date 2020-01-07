@@ -2,6 +2,7 @@
 
 
 public void params() {                 // get parameters from text box
+  spectName = cp5Spec.get(Textfield.class,"spectrometer_Name").getText();
   sMillis = cp5.get(Textfield.class, "Integration_Time").getText();
   iIntTime = round(float(sMillis)*1000);
   IntTime = nf(iIntTime, 6);   // make ScanR have 3 digits. pad with zero if no digits
