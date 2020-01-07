@@ -340,6 +340,7 @@ float calculateResid(int nPeaks){
    readParLine(file2str[j]);
     }
     }  // end of j loop
+    spectrometerSetup();
     } // end of try
     catch(Exception e){
       println("error in getFile, buttons, line 404");
