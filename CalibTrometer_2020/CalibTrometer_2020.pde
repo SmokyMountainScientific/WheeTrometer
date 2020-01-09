@@ -455,6 +455,7 @@ stroke(255);
       reading = false;
 //      if(pixAv != oldAv){  // recalculate wavelength data if new averaging
   //      newXVals();
-    //  }  
+    //  }
+    findCursor();
    }
 }
